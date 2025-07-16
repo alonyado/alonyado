@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Alon Lanyado 👋
 
-<!--
-**alonyado/alonyado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Talpiot Graduate | Data Science Leader | Healthcare Innovator**
 
-Here are some ideas to get you started:
+- **Background:**  
+  Graduate of the elite Talpiot program. Former Head of Data Science at Medial EarlySign, a startup leveraging EMR data for early disease prediction (e.g., cancer). Currently, I work as a freelance consultant for Roche and am building a new venture in healthcare.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Skills & Expertise:**  
+  - Machine learning algorithms & statistical modeling  
+  - Strong programming skills: Python, C++, C, Matlab, Shell, SQL, Awk, and some others in the past.
+  - Data-driven healthcare innovation
+
+- **Endurance Athlete:**  
+  - 5 Marathons & 3 Ultra-Marathons completed
+
+- **What drives me:**  
+  Passionate about complex challenges and innovative solutions. Strong in programming, statistics, and data. Focused on healthcare innovation and real-world impact.
+
+- **Let’s connect:**  
+  [LinkedIn](https://www.linkedin.com/in/lanyado)
+
+---
+
+*Always open to collaboration, discussion, and new opportunities in healthcare and data science!*
