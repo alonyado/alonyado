@@ -1,6 +1,6 @@
 # Hi, I'm Alon Lanyado 👋
 
-**Talpiot Graduate | Data Science Leader | Healthcare Innovator**
+**Data Science Leader | Healthcare Innovator**
 
 - **Background:**  
   Graduate of the elite Talpiot program. Former Head of Data Science at Medial EarlySign, a startup leveraging EMR data for early disease prediction (e.g., cancer). Currently, I work as a freelance consultant for Roche and am building a new venture in healthcare.
